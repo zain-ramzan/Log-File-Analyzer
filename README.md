@@ -21,12 +21,12 @@ The Log File Analyzer is a tool designed to analyze log files generated during 3
 5. **Export Data**: If required, export processed data for further use.
 
 ## System Requirements
-- Python 3.x
+- Python 3.10
 - Required Libraries:
   - Pandas
   - Matplotlib
   - NumPy
-  - Flask (if using a web-based version)
+  - Tkinter (if using a web-based version)
 
 ## Installation
 1. Clone the repository:
@@ -43,7 +43,7 @@ The Log File Analyzer is a tool designed to analyze log files generated during 3
    ```
 4. Run the application:
    ```bash
-   python main.py
+   python app.py
    ```
 
 ## Contribution Guide
