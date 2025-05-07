@@ -54,5 +54,5 @@ Future students can extend the project by:
 - Enhancing the UI for better usability.
 
 ## Contact
-For further queries, please reach out to me on <a href="www.linkedin.com/in/zainramzan" target="_blank">LinkedIn</a>
+For further queries, please reach out to me on <a href="https://www.linkedin.com/in/zainramzan/" target="_blank">LinkedIn</a>
 
